@@ -13,8 +13,8 @@ my $textID = 'routenum'; # object ID of the text to be converted
 my $delay = 10; # delay between uploading images
 my $autoupload = 0; # prompts for input between uploads (0=false, 1=true)
 my $username = "Highway Route Marker Bot"; # uploaders Mediawiki username
-my $apiurl = 'http://commons.wikimedia.org/w/api.php'; # Mediawiki API location
-my $uploadurl = 'http://commons.wikimedia.org/w/index.php?title=Special:Upload&uploadformstyle=basic'; # Mediawiki upload location
+my $apiurl = 'https://commons.wikimedia.org/w/api.php'; # Mediawiki API location
+my $uploadurl = 'https://commons.wikimedia.org/w/index.php?title=Special:Upload&uploadformstyle=basic'; # Mediawiki upload location
 
 # Variables
 # ===================
